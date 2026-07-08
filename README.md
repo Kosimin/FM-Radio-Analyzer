@@ -11,3 +11,12 @@ An Arduino-based FM radio receiver with real-time FFT audio analysis  and OLED d
 - The processed results, along with additional parameters such as the tuned frequency and signal strength (RSSI), are displayed on an OLED screen.
 - A push button is included to allow the user to change the frequency, making the system interactive and easy to operate.
 - Overall, the methodology focuses on capturing FM signals, converting them into usable audio data, analyzing the signal using digital processing techniques, and presenting the results in real time.
+
+
+# Circuit Diagram
+<img width="821" height="520" alt="image" src="https://github.com/user-attachments/assets/f3ba407c-06cc-4120-8888-59e28b2ec878" />
+
+
+# Project Image
+<img width="976" height="425" alt="image" src="https://github.com/user-attachments/assets/40e732e3-4260-4a8a-89df-15804395cdcd" />
+
